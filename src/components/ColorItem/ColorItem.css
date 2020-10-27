@@ -1,0 +1,13 @@
+.color-button {
+    display: inline-block;
+    width:30px;
+    height:30px;
+    margin:0 .5em;
+    cursor: pointer;
+    transition:.3s;
+    opacity: .6;
+}
+
+.color-button:hover {
+    opacity: 1;
+}
